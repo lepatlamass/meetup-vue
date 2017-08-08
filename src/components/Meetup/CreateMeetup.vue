@@ -1,7 +1,16 @@
 <template>
-  <div class="createmeetup">
-    <p>createmeetup</p>
-  </div>
+  <v-conatainer>
+    <v-layout row>
+      <v-flex xs12>
+        <h4 class="primary--text">Create a New Meetup</h4>
+      </v-flex>
+    </v-layout>
+    <v-layout row>
+      <v-flex xs12>
+        
+      </v-flex>
+    </v-layout>
+  </v-conatainer>
 </template>
 
 <script>
